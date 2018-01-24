@@ -6,23 +6,23 @@ http://sweip.noip.me:9090/live/Hasanabi/6No0KLCCMv/621.ts
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7506.ts
 #EXTINF:-1 id="TV3 HD SE" lang="sv", TV3 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4913.ts
-#EXTINF:-1 id="TV4 HD SE" lang="sv", TV4 HD
+#EXTINF:-1 id="TV4 HD SE" lang="sv", TV4 HD SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7507.ts
-#EXTINF:-1 id="TV4 HD SE" lang="sv", TV4
+#EXTINF:-1 id="TV4 HD SE" lang="sv", TV4 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4914.ts
-#EXTINF:-1 id="Kanal 5 SE" lang="sv", Kanal 5
+#EXTINF:-1 id="Kanal 5 SE" lang="sv", Kanal 5 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2982.ts
-#EXTINF:-1,SV: TV 6
+#EXTINF:-1 id="TV6 SE" lang="sv", TV6 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4919.ts
-#EXTINF:-1,SV: Sjuan SE
+#EXTINF:-1 id="Sjuan SE" lang="sv", Sjuan SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7508.ts
-#EXTINF:-1,SV: TV 8
+#EXTINF:-1 id="TV8 SE"  lang="sv", TV8 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4920.ts
-#EXTINF:-1,SV: Kanal 9
+#EXTINF:-1 id="Kanal 9 SE" lang="sv", Kanal 9 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7509.ts
-#EXTINF:-1,SV: TV10
+#EXTINF:-1 id="TV10 SE" lang="sv", TV10 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7510.ts
-#EXTINF:-1,SV: Kanal 11
+#EXTINF:-1 id="Kanal 11 SE" lang="sv", Kanal 11 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7511.ts
-#EXTINF:-1,SV: TV 12
+#EXTINF:-1 id="TV12 SE" lang="sv", TV12 SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4922.ts
