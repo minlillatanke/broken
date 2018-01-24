@@ -1,4 +1,4 @@
-#EXTINF:-1 id="SVT1 HD SE" lang="sv", SVT1 SE
+#EXTINF:-1 id="SVT1 HD SE" lang="sv", SVT1 HD SE
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7504.ts
 #EXTINF:-1 id="SVT2 HD SE" lang="sv", SVT2 HD SE
 http://sweip.noip.me:9090/live/Hasanabi/6No0KLCCMv/621.ts
@@ -8,9 +8,9 @@ http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7506.ts
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4913.ts
 #EXTINF:-1 id="TV4 HD SE" lang="sv", TV4 HD
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/7507.ts
-#EXTINF:-1,SV: TV 4
+#EXTINF:-1 id="TV4 HD SE" lang="sv", TV4
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4914.ts
-#EXTINF:-1,SV : KANAL 5
+#EXTINF:-1 id="Kanal 5 SE" lang="sv", Kanal 5
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2982.ts
 #EXTINF:-1,SV: TV 6
 http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/4919.ts
